@@ -40,4 +40,4 @@
     - Limited features and flexibility.
     - Less isolation compared to Minikube.
 
-Visual demonstration, check this [asciinema recording](https://asciinema.org/a/YlS7gLMWSp7Ngb7bocd4ZlLG7).
+Visual demonstration, check this [![asciicast](https://asciinema.org/a/YlS7gLMWSp7Ngb7bocd4ZlLG7.svg)](https://asciinema.org/a/YlS7gLMWSp7Ngb7bocd4ZlLG7)
