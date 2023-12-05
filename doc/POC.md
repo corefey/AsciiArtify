@@ -1,7 +1,7 @@
 ### Steps to Run ArgoCD
 1. **Install ArgoCD**
 
-   You can install ArgoCD via Helm by running:
+   You can install ArgoCD by running:
 
     ```bash
     kubectl create namespace argocd
