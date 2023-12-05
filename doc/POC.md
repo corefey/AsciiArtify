@@ -1,15 +1,5 @@
-# How to Run ArgoCD
-
-ArgoCD is a popular tool used for continuous deployment and GitOps. To run ArgoCD, you need to follow these general steps:
-
-### Prerequisites
-1. **Kubernetes Cluster**: ArgoCD runs on Kubernetes. Ensure you have a cluster set up.
-2. **kubectl**: Install `kubectl` to interact with your Kubernetes cluster.
-3. **Helm**: It's often easier to install ArgoCD using Helm. Install Helm on your machine.
-4. **Access to a Git Repository**: ArgoCD uses Git repositories to manage application configurations.
-
 ### Steps to Run ArgoCD
-1. **Install ArgoCD using Helm**
+1. **Install ArgoCD**
 
    You can install ArgoCD via Helm by running:
 
