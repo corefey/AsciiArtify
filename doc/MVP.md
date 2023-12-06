@@ -1,4 +1,5 @@
 Create a new application in ArgoCD
+
 ![[../img/20231206164549.png]]
 
 Add port forwarding
@@ -15,4 +16,5 @@ curl -F 'image=@/tmp/g.png' localhost:8088/img/
 ```
 
 You should observe something like this
+
 ![[../img/20231206165210.png]]
