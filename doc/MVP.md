@@ -1,5 +1,5 @@
 Create a new application in ArgoCD
-![Alt text](img/20231206164549.png)
+![](../img/20231206164549.png)
 
 Add port forwarding
 ```bash
@@ -15,4 +15,4 @@ curl -F 'image=@/tmp/g.png' localhost:8088/img/
 ```
 
 You should observe something like this
-![Alt text](img/20231206165210.png)
+![](../img/20231206165210.png)
